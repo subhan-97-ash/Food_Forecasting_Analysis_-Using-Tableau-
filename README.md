@@ -10,5 +10,5 @@ we are going to perform the analysis on these data and make a end to end report 
 **Outcome**
 ![image](https://github.com/subhan-97-ash/Food_Forecasting_Analysis_-Using-Tableau-/assets/132070691/3948660c-f10c-4e25-ba02-8391270824fb)
 
-**Note:-** Can also visit the tableau public for the visualization. Click the link below
+**Note:-** Click the link below to visit the tableau public for the visualization. 
 https://public.tableau.com/app/profile/subhan4666/viz/DetailedAnalysisandForecastofFoodDeliveryComapany/SalesRevenueofaFoodDeliveryCompany
